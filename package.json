@@ -1,0 +1,22 @@
+{
+  "name": "tspatch-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tspc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "effect": "^3.16.13"
+  },
+  "devDependencies": {
+    "@effect/language-service": "^0.25.0",
+    "@tsconfig/strictest": "^2.0.5",
+    "ts-patch": "^3.3.0",
+    "typescript": "^5.8.3"
+  }
+}
